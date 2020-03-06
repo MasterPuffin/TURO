@@ -1,3 +1,6 @@
+<img width="200" alt="Logo" src="https://cdn.trueforce.ca/Logos/Logo_text_wide_small.png">
+
+
 # TURO
 Welcome to TURO - the Trueforce Unified Radio OS
 ## Goal
