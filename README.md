@@ -7,12 +7,12 @@ TURO contains a .csv file with the above mentioned list of frequencies and chann
 ## Images
 Images are radio specific and contain optimized settings such as disabling of transmitting sounds when pressing the emergency button and above mentioned frequencies. There are currently the following versions with support the listed radios:
 
- - **Version U** *(Baofeng F8HP Family)*
- -- Baofeng GT-3TP
- -- Baofeng GT-3
- -- Baofeng UV-5R Plus 
- -- Baofeng UV-5RTP 
- -- Baofeng UV-5R EX
+ * **Version U** *(Baofeng F8HP Family)*
+   * Baofeng GT-3TP
+   * Baofeng GT-3
+   * Baofeng UV-5R Plus 
+   * Baofeng UV-5RTP 
+   * Baofeng UV-5R EX
  ## Interoperability
 Versions with the same version code will guaranteed work together when selecting the same channel. Minor versions such as *v.1.**1**_U* and *v.1.**2**_U* will probably work as they only contain bugfixes.
 The letter after the version number specifies the device version the image is. This means *v.1.2_**U*** and *v.1.2_**B*** for example, are the same settings and frequency wise.
