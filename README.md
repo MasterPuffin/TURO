@@ -19,7 +19,7 @@ Images are radio specific and contain optimized settings such as disabling of tr
    * Baofeng GT-3
  ## Interoperability
 Versions with the same version code will guaranteed work together when selecting the same channel. Minor versions such as *v.1.**1**_U* and *v.1.**2**_U* will probably work as they only contain bugfixes.
-The letter after the version number specifies the device version the image is. This means *v.1.2_**U*** and *v.1.2_**B*** for example, are the same settings and frequency wise.
+The letter after the version number specifies the device version the image is. This means *v.1.2_**U*** and *v.1.2_**B*** for example, share the same settings and frequencies.
 ## Installation
 To flash the image to your radio you need [CHIRP](https://chirp.danplanet.com) or a similar software and a programming cable.
  
