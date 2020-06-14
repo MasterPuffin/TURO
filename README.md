@@ -23,7 +23,7 @@ The letter after the version number specifies the device version the image is. T
 ## Installation
 To flash the image to your radio you need [CHIRP](https://chirp.danplanet.com) or a similar software and a programming cable.
  
- 1. Download the corresponding image for your devicein the [here](https://github.com/MasterPuffin/TURO/releases) (distinguishable by the letter at the end of the version number)
+ 1. Download the corresponding image for your device [here](https://github.com/MasterPuffin/TURO/releases) (distinguishable by the letter at the end of the version number)
  2. Open CHIRP and go to File > Open and open the downloaded file
  3. Go to Device > Upload to device
  4. Select the right port (COM3 on Windows, USB0 on Linux), Vendor and Model
