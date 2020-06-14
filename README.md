@@ -12,10 +12,11 @@ Images are radio specific and contain optimized settings such as disabling of tr
 
  * **Version U** *(Baofeng F8HP Family)*
    * Baofeng GT-3TP
-   * Baofeng GT-3
    * Baofeng UV-5R Plus 
    * Baofeng UV-5RTP 
    * Baofeng UV-5R EX
+ * **Version G** *(Baofeng F8HP Family)*
+   * Baofeng GT-3
  ## Interoperability
 Versions with the same version code will guaranteed work together when selecting the same channel. Minor versions such as *v.1.**1**_U* and *v.1.**2**_U* will probably work as they only contain bugfixes.
 The letter after the version number specifies the device version the image is. This means *v.1.2_**U*** and *v.1.2_**B*** for example, are the same settings and frequency wise.
